@@ -1,7 +1,7 @@
 
 # `echo "Hi there, It's Motasem!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" height="35px" alt="Hi!">
 
-[![Twitter](https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667)](https://twitter.com/MotasemMobayyed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motasem-mbyd/)
+[![Twitter](https://img.shields.io/badge/twitter-twitter?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MotasemMobayyed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motasem-mbyd/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Project+Management;Software+Development;Software+Testing;Quality+Assurance;Problem+Solving;Competitive+Programming;Red+Teaming;Malware+Analysis;Ethical+Hacking;and+Cybersecurity+Engineering!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
