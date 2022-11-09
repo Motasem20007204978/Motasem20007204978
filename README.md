@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning python, django and django rest framework 
-- 👯 I’m looking to collaborate on django framework project
-- 💬 Ask me about python
-- 📫 How to reach me: motasemalmobayyed@gmail.com
-
-
-# `echo "Hi there, It's Khader!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" height="35px" alt="Hi!">
+# `echo "Hi there, It's Motasem!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" height="35px" alt="Hi!">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khader.jber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-karaja/)
 
@@ -44,6 +36,12 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 ### Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Khader9Jber&theme=darkhub&no-frame=true&column=10"></a>
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Motasem20007204978&theme=darkhub&no-frame=true&column=10"></a>
 
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning python, django and django rest framework 
+- 👯 I’m looking to collaborate on django framework project
+- 💬 Ask me about python
+- 📫 How to reach me: motasemalmobayyed@gmail.com
 
