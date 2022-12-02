@@ -3,7 +3,7 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-skyblue?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MotasemMobayyed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motasem-mbyd/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Project+Management;Software+Development;Software+Testing;Quality+Assurance;Problem+Solving;Competitive+Programming;Red+Teaming;Malware+Analysis;Ethical+Hacking;and+Cybersecurity+Engineering!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Software+Development;Backend+Development+With+Django;API+development;DataBase+Design;Third-Party+Techniques+Integration;Python+Automation;Problem+Solving;Soft+Skills;Time+Management;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 I am a Software Engineer and web development with python and api. 
 <br/>
