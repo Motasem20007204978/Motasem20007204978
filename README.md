@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Motasem Al-Mobayyed</h1>
-<h3 align="center">A passionate python developer from Ialestine</h3>
+<h3 align="center">A passionate python developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motasem20007204978&label=Profile%20views&color=0e75b6&style=flat" alt="motasem20007204978" /> </p>
 
