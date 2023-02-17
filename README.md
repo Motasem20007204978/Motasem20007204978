@@ -1,50 +1,37 @@
+<h1 align="center">Hi 👋, I'm Motasem Al-Mobayyed</h1>
+<h3 align="center">A passionate python developer from Ialestine</h3>
 
-# `echo "Hi there, It's Motasem!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" height="35px" alt="Hi!">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=motasem20007204978&label=Profile%20views&color=0e75b6&style=flat" alt="motasem20007204978" /> </p>
 
-[![Twitter](https://img.shields.io/badge/twitter-skyblue?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MotasemMobayyed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motasem-mbyd/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasem20007204978" alt="motasem20007204978" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Software+Development;Backend+Development+With+Django;API+development;DataBase+Design;Third-Party+Techniques+Integration;Python+Automation;Problem+Solving;Soft+Skills;Time+Management;Nice+to+meet+you...)](https://git.io/typing-svg)
+<p align="left"> <a href="https://twitter.com/motasemmobayyed" target="blank"><img src="https://img.shields.io/twitter/follow/motasemmobayyed?logo=twitter&style=for-the-badge" alt="motasemmobayyed" /></a> </p>
 
-Experienced Django backend developer with 2+ years of experience in developing and maintaining web applications. 
-<br/>Strong knowledge of Python, Django, RESTful API with Django, and related technologies. 
-<br/>Familiarity with front end languages (HTML, CSS, JS). 
-<br/>Interested with python automation, web scraping, and web automation with selenium. 
-<br/>Good Knowledge with DevOps techniques, database design, and critical thinking skills to create efficient and scalable projects. 
-<br/>Possess soft skills such as effective communication, team collaboration, problem-solving, and time management.
+- 🔭 I’m currently working on [Drug Store Management System](https://github.com/Motasem20007204978/drug_store_project_with_Django_MVC)
 
-## Programming Languages & Frameworks
+- 👨‍💻 All of my projects are available at [https://github.com/Motasem20007204978](https://github.com/Motasem20007204978)
 
-![Python](https://img.icons8.com/color/35/python--v1.png)![Django](https://icons8.com/color/35/django.png)
-![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
+- 💬 Ask me about **Django, RESTful API,**
 
-## Technologies
+- 📫 How to reach me **motasemalmobayyed@gmail.com**
 
-![PostgreSQL](https://icons8.com/icon/color/35/postgresql.png) ![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Git](https://img.icons8.com/color/35/git.png)![Github](https://img.icons8.com/?id=52539&size=35)
+- ⚡ Fun fact **I am happy with code world**
 
-## Tools & SWs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/motasemmobayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="motasemmobayyed" height="30" width="40" /></a>
+<a href="https://dev.to/motasemmbyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="motasemmbyd" height="30" width="40" /></a>
+<a href="https://twitter.com/motasemmobayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motasemmobayyed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/motasem-mbyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="motasem-mbyd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/eng_motasem2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eng_motasem2000" height="30" width="40" /></a>
+</p>
 
-![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=motasem20007204978&show_icons=true&locale=en&layout=compact" alt="motasem20007204978" /></p>
 
-## GitHub Summary
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motasem20007204978&show_icons=true&locale=en" alt="motasem20007204978" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasem20007204978&layout=compact&theme=chartreuse-dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasem20007204978&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-### Github Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/{Motasem20007204978}/count.svg)
-
-### Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Motasem20007204978&theme=darkhub&no-frame=true&column=10"></a>
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning python, django and django rest framework 
-- 👯 I’m looking to collaborate on django framework project
-- 💬 Ask me about python
-- 📫 How to reach me: motasemalmobayyed@gmail.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motasem20007204978&" alt="motasem20007204978" /></p>
 
